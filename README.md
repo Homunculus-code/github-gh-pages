@@ -1,2 +1,2 @@
 # github-gh-pages
-Code: github.com/homunculus-code/ghibliWebAppCod
+Code: github.com/homunculus-code/ghibliWebAppCode
